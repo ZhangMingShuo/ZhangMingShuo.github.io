@@ -1,6 +1,6 @@
 ## plan
 >数学10.19-10.31   
->>线性代数
+>>线性代数  
 >>>基础课https://www.youtube.com/playlist?list=PLRMOX8QaZK8wjE39xZRL202PHZb_y2nza  
 >>>强化课https://www.youtube.com/playlist?list=PLRMOX8QaZK8wQWSNuwwbC37J_SXJMxvwx  
 >>>汤家凤线性代数辅导讲义  
