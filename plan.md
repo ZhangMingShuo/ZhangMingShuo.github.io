@@ -11,7 +11,6 @@
 | https://www.youtube.com/watch?v=kFW0IcTp7mM | 完成否 | | |
 | https://www.youtube.com/watch?v=osJBE9cmdsw | 完成否 | | |
 | https://www.youtube.com/watch?v=dLoWqkNC-ms | 完成否 | | |
-
 | 接力题典66-69，130-133 线性方程组题目 | 完成否？ | 接力题典69-72，133-137 线性方程组题目 | 完成否？ | 
 | 概率论 随机事件与概率 强化+基础 | 完成否？ | 随机变量及其分布 强化+基础| 完成否？ | 
 | 接力题典76-78，139-141 随机事件与概率题目 | 完成否？ | 接力题典78-80，141-142 随机事件与概率题目  | 完成否？ | 
