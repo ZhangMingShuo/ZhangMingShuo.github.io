@@ -1,11 +1,11 @@
 ## plan
-|  2019.10.19   | 完成情况 | 2019.10.21 | 完成情况 |
+|  2019.10.19   | 内容 | 2019.10.20| 完成情况 |
 | ----  | ----  | ----  | ----  | 
 | 线性方程组 强化+基础 | 完成否？ | 矩阵特征值与特征向量 强化+基础 | 完成否 | 
-| https://www.youtube.com/watch?v=rxNDD_Sp9hE | 完成否 | | |
-| https://www.youtube.com/watch?v=nZ-A6bhMrzs | 完成否 | | |
-| https://www.youtube.com/watch?v=qa1uraprnlI | 完成否 | | |
-| https://www.youtube.com/watch?v=NlT5ZWhz6qk | 完成否 | | |
+| https://www.youtube.com/watch?v=rxNDD_Sp9hE | 强化25:辅导讲义93-98 | | |
+| https://www.youtube.com/watch?v=nZ-A6bhMrzs | 强化26:辅导讲义100题型一例2,3，题型二结构与性质例1，2，3，4 | | |
+| https://www.youtube.com/watch?v=qa1uraprnlI | 强化27:辅导讲义100题型二结构与性质 | | |
+| https://www.youtube.com/watch?v=NlT5ZWhz6qk | 强化28:辅导讲义含参方程组解的讨论 P105例3 | | |
 | https://www.youtube.com/watch?v=WRqBjMmMJso | 完成否 | | |
 | https://www.youtube.com/watch?v=Zfer-gKAraI | 完成否 | | | 
 | https://www.youtube.com/watch?v=kFW0IcTp7mM | 完成否 | | |
