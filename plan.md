@@ -1,5 +1,25 @@
 ## plan
->数学10.19-10.31   
+|  2019.10.19   | 完成情况 | 2019.10.21 | 完成情况 |
+| ----  | ----  | ----  | ----  | 
+| 线性方程组 强化+基础 | 完成否？ | 矩阵特征值与特征向量 强化+基础 | 完成否 | 
+| https://www.youtube.com/watch?v=rxNDD_Sp9hE | 完成否 | | |
+| https://www.youtube.com/watch?v=nZ-A6bhMrzs | 完成否 | | |
+| https://www.youtube.com/watch?v=qa1uraprnlI | 完成否 | | |
+| https://www.youtube.com/watch?v=NlT5ZWhz6qk | 完成否 | | |
+
+| https://www.youtube.com/watch?v=WRqBjMmMJso | 完成否 | | |
+| https://www.youtube.com/watch?v=Zfer-gKAraI | 完成否 | | | 
+| https://www.youtube.com/watch?v=kFW0IcTp7mM | 完成否 | | |
+| https://www.youtube.com/watch?v=osJBE9cmdsw | 完成否 | | |
+| https://www.youtube.com/watch?v=dLoWqkNC-ms | 完成否 | | |
+
+| 接力题典66-69，130-133 线性方程组题目 | 完成否？ | 接力题典69-72，133-137 线性方程组题目 | 完成否？ | 
+| 概率论 随机事件与概率 强化+基础 | 完成否？ | 随机变量及其分布 强化+基础| 完成否？ | 
+| 接力题典76-78，139-141 随机事件与概率题目 | 完成否？ | 接力题典78-80，141-142 随机事件与概率题目  | 完成否？ | 
+| 高数 函数极限连续 强化+基础| 完成否？ | 导数与微分 强化+基础 | 完成否？ | 
+| 接力题典3-11，93-96 函数极限连续题目 | 完成否？ | 接力题典 11-16，97-105  | 完成否？| 
+
+>数学   
 >>线性代数    
 >>>基础课https://www.youtube.com/playlist?list=PLRMOX8QaZK8wjE39xZRL202PHZb_y2nza  
 >>>强化课https://www.youtube.com/playlist?list=PLRMOX8QaZK8wQWSNuwwbC37J_SXJMxvwx  
@@ -8,7 +28,7 @@
 >>概率论   
 >>>基础课https://www.youtube.com/playlist?list=PLRMOX8QaZK8w8v4P7lvAIXTXuRGBSKQLo  
 
->>高等数学10.29-10.31    
+>>高等数学        
 >>>基础课https://www.youtube.com/playlist?list=PLRMOX8QaZK8zqRXVxtqoXia0zy5diEiNO  
 >>>强化课https://www.youtube.com/playlist?list=PLRMOX8QaZK8zknameSu93zhpMS7nT09Gd  
 >>>汤家凤高等数学辅导讲义   
@@ -39,3 +59,4 @@
 >>毛概  
 >>思修  
 >>中国近代史纲要  
+
