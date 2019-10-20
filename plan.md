@@ -63,6 +63,9 @@
 ---
 >>马克思原理     
 >>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wyXLGWjui4yxkasZlY1wn9  
+
+---
+
 |内容 | 一刷| 二刷 |  
 | ----  | ----  | ---- |  
 | 1.导论与哲学基本内容 | | |  
@@ -73,6 +76,7 @@
 | 6.辩证法的两大总特征 | | |    
 | 7.辩证法五对范畴1 | | |   
 | 8.辩证法五对范畴2 | | |   
+
 --- 
 >>毛概   
 >>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xMMmj6NpoCr58dVA8qU6bc    
