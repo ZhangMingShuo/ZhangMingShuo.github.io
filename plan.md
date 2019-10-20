@@ -59,7 +59,7 @@
 >>计算机组成  
 
 >政治 
->>选择题 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xkPDj93KnIQWsO4xRfL0h9 
+>>选择题 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xkPDj93KnIQWsO4xRfL0h9  
 >>马克思原理    
 >>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wyXLGWjui4yxkasZlY1wn9       
 >>毛概  
