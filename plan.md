@@ -54,34 +54,73 @@
 ---
 >专业  
 >>计算机网络  
->>操作系统  
->>数据结构  
->>计算机组成  
+---
+| 内容 | 一刷 | 二刷 |
+| ---- | ---- | ---- |
+|  | | |
+ 
+---
+
+>计算机
+>>计算机网络 https://www.youtube.com/playlist?list=PLg5ULjirtivsrP-CITWxG0ZnhXrCBuEJv   
+>>计算机网络习题 https://www.youtube.com/playlist?list=PL0MagCinIFowj8eGl_IPnA-yHQJe6Boyc   
+>>操作系统  https://www.youtube.com/playlist?list=PLg5ULjirtivtd1p89jL5t1SKU6batBysz   
+>>数据结构  https://www.youtube.com/playlist?list=PLg5ULjirtivvCYIB3wRZigJC8E9oc8w_B   
+>>计算机组成 https://www.youtube.com/playlist?list=PLg5ULjirtivtsUL_W7Mdbc3cjk-E_kdQx   
+
+
 
 >政治  
->>选择题 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xkPDj93KnIQWsO4xRfL0h9   
+>>政治选择题 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xkPDj93KnIQWsO4xRfL0h9  ✔ 
 ---
 >>马克思原理     
->>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wyXLGWjui4yxkasZlY1wn9  
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wyXLGWjui4yxkasZlY1wn9  ✔
 
 ---
 
 |内容 | 一刷| 二刷 |  
 | ----  | ----  | ---- |  
-| 1.导论与哲学基本内容 | | |  
-| 2.导论与哲学基本内容 | | |  
-| 3.导论与哲学基本内容 | | |  
-| 4.导论与哲学基本内容 | | |  
-| 5.唯物论与意识观 | | |  
+| 1.导论与哲学基本内容1 | | |  
+| 2.导论与哲学基本内容2 | | |  
+| 3.唯物论物质观 | | |  
+| 4.唯物论与意识观1 | | |  
+| 5.唯物论与意识观2 | | |  
 | 6.辩证法的两大总特征 | | |    
-| 7.辩证法五对范畴1 | | |   
-| 8.辩证法五对范畴2 | | |   
+| 7.辩证法五对范畴1 | | | 
+| 8.辩证法五对范畴2 | | |
+| 9.对立统一规律1 | | | 
+| 10.对立统一规律2 | | | 
+| 11.质量互变定律 | | |  
+| 12.否定之否定定律 | | |  
+| 13.认识论实践与认识 | | |  
+| 14.认识的本质过程和规律1 | | |  
+| 15.认识的本质过程和规律2 | | |  
+| 16.真理与谬误1 | | | 
+| 17.真理与谬误2 | | | 
+| 18.社会基本矛盾1 | | |  
+| 19.社会基本矛盾2 | | |  
+| 20.社会形态更替与历史创造者1| | |  
+| 21.社会形态更替与历史创造者2 | | |  
+| 22.商品的两因素与生产商品劳动的二重性 | | |  
+| 23.价值规律与简单商品经济的基本矛盾1 | | |   
+| 24.价值规律与简单商品经济的基本矛盾2 | | |  
+| 25.剩余价值的生产与积累1 | | |  
+| 26.剩余价值的生产与积累2 | | |  
+| 27.剩余价值的流转与分配1 | | |  
+| 28.剩余价值的流转与分配2 | | |  
+| 29.垄断资本主义发展1 | | |  
+| 30.垄断资本主义发展2 | | |  
+| 31.社会主义社会与共产主义社会  | | |  
 
 --- 
->>毛概   
->>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xMMmj6NpoCr58dVA8qU6bc    
+>>毛概1.分值高占30 与史纲交叉考查的有40 2.记忆性强 3.时效性强 40分里有20%-30%来自于新闻 
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xMMmj6NpoCr58dVA8qU6bc    ✔
+>>> 第1位.第10-11 新时代中国特色社会主义的布局  第2位.8新时代的新思想和历史地位，9总任务，5邓小平理论  第3位.6，7，12，13，14 
+>>>冲刺班
+>>>押题班
 >>思修   
->>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8yECo8L2BuGUOgMq_s_7zA7   
----
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8yECo8L2BuGUOgMq_s_7zA7   ✔
 >>中国近代史纲要   
+>>>youtube-dl https://www.youtube.com/playlist?list=PLRMOX8QaZK8wMeWFEntKNCn7lE_WEW7FQ -f 18 --playlist-start 1 --playlist-end 21 -o '%(title)s.%(etc)s' 
 >>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wMeWFEntKNCn7lE_WEW7FQ   
+
