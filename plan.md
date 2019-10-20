@@ -118,9 +118,12 @@
 >>> 第1位.第10-11 新时代中国特色社会主义的布局  第2位.8新时代的新思想和历史地位，9总任务，5邓小平理论  第3位.6，7，12，13，14 
 >>>冲刺班
 >>>押题班
+---
 >>思修   
 >>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8yECo8L2BuGUOgMq_s_7zA7   ✔
+---
 >>中国近代史纲要   
 >>>youtube-dl https://www.youtube.com/playlist?list=PLRMOX8QaZK8wMeWFEntKNCn7lE_WEW7FQ -f 18 --playlist-start 1 --playlist-end 21 -o '%(title)s.%(etc)s' 
 >>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wMeWFEntKNCn7lE_WEW7FQ   
+---
 
