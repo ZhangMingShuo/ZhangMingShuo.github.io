@@ -1,5 +1,5 @@
 ## plan
-|  2019.10.20   | 内容 | 完成情况 | 完善之处 |
+|  2019.10.19   | 内容 | 完成情况 | 完善之处 |
 | ----  | ----  | ----  | ----  | 
 | 线性方程组 强化+基础 |  |  |  | 
 | https://www.youtube.com/watch?v=rxNDD_Sp9hE | 强化25:辅导讲义93-98 | 完成 | |
@@ -7,15 +7,22 @@
 | https://www.youtube.com/watch?v=qa1uraprnlI | 强化27:辅导讲义100题型二结构与性质 | 完成 | |
 | https://www.youtube.com/watch?v=NlT5ZWhz6qk | 强化28:辅导讲义含参方程组解的讨论 P105例3 | 未完成 | |
 | https://www.youtube.com/watch?v=WRqBjMmMJso | 基础24:定理+齐次方程组通解 | 完成 | |
-| https://www.youtube.com/watch?v=Zfer-gKAraI | 基础25 | | | 
-| https://www.youtube.com/watch?v=kFW0IcTp7mM | 基础26 | | |
-| https://www.youtube.com/watch?v=osJBE9cmdsw | 基础27 | | |
-| https://www.youtube.com/watch?v=dLoWqkNC-ms | 基础28 | | |
-| 接力题典66-69，130-133 线性方程组题目 | 完成否？ | 接力题典69-72，133-137 线性方程组题目 | 完成否？ | 
-| 概率论 随机事件与概率 强化+基础 | 完成否？ | 随机变量及其分布 强化+基础| 完成否？ | 
-| 接力题典76-78，139-141 随机事件与概率题目 | 完成否？ | 接力题典78-80，141-142 随机事件与概率题目  | 完成否？ | 
-| 高数 函数极限连续 强化+基础| 完成否？ | 导数与微分 强化+基础 | 完成否？ | 
-| 接力题典3-11，93-96 函数极限连续题目 | 完成否？ | 接力题典 11-16，97-105  | 完成否？| 
+| 2019.10.19 | 内容 | 完成情况 | 完善之处 |
+| 线性方程组 强化+基础 |  |  |  | 
+| https://www.youtube.com/watch?v=Zfer-gKAraI | 基础25 | | |  
+| https://www.youtube.com/watch?v=kFW0IcTp7mM | 基础26 | | |  
+| https://www.youtube.com/watch?v=osJBE9cmdsw | 基础27 | | |  
+| https://www.youtube.com/watch?v=dLoWqkNC-ms | 基础28 | | |  
+| 接力题典66-69，130-133 线性方程组题目 | 完成否？ |  | |  
+| 概率论 随机事件与概率 强化+基础 | 完成否？ |  | |  
+| 接力题典76-78，139-141 随机事件与概率题目 | 完成否？ | | |  
+| 高数 函数极限连续 强化+基础| 完成否？ | | |  
+| 接力题典3-11，93-96 函数极限连续题目 | 完成否？ |  | |  
+| 接力题典69-72，133-137 线性方程组题目 | 完成否？ | | |  
+| 随机变量及其分布 强化+基础| 完成否？ |  | |  
+| 接力题典78-80，141-142 随机事件与概率题目  | 完成否？ |  | |  
+| 导数与微分 强化+基础 | 完成否？ |  | |  
+| 接力题典 11-16，97-105  | 完成否？|  | |  
 
 >数学   
 >>线性代数    
@@ -51,11 +58,13 @@
 >>数据结构  
 >>计算机组成  
 
->政治  
->>形势与政策  
->>马克思原理  
->>>
+>政治 
+>>选择题 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xkPDj93KnIQWsO4xRfL0h9 
+>>马克思原理    
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wyXLGWjui4yxkasZlY1wn9       
 >>毛概  
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xMMmj6NpoCr58dVA8qU6bc   
 >>思修  
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8yECo8L2BuGUOgMq_s_7zA7   
 >>中国近代史纲要  
-
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wMeWFEntKNCn7lE_WEW7FQ  
