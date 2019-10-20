@@ -62,11 +62,20 @@
 >>选择题 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xkPDj93KnIQWsO4xRfL0h9   
 ---
 >>马克思原理     
->>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wyXLGWjui4yxkasZlY1wn9        
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wyXLGWjui4yxkasZlY1wn9  
+>>>|内容 | 一刷| 二刷 |
+>>>| ----  | ----  | ---- |
+>>>| 1.导论与哲学基本内容 | | |
+>>>| 2.导论与哲学基本内容 | | |
+>>>| 3.导论与哲学基本内容 | | |
+>>>| 4.导论与哲学基本内容 | | |
+>>>| 5.唯物论与意识观 | | |
+>>>| 6.辩证法的两大总特征 | | |
+>>>| 7.辩证法五对范畴1 | | |
+>>>| 8.辩证法五对范畴2 | | |
 ---
 >>毛概   
 >>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xMMmj6NpoCr58dVA8qU6bc    
----
 >>思修   
 >>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8yECo8L2BuGUOgMq_s_7zA7   
 ---
