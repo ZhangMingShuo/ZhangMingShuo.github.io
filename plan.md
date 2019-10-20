@@ -58,13 +58,17 @@
 >>数据结构  
 >>计算机组成  
 
->政治 
->>选择题 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xkPDj93KnIQWsO4xRfL0h9  
->>马克思原理    
->>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wyXLGWjui4yxkasZlY1wn9       
->>毛概  
->>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xMMmj6NpoCr58dVA8qU6bc   
->>思修  
+>政治  
+>>选择题 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xkPDj93KnIQWsO4xRfL0h9   
+---
+>>马克思原理     
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wyXLGWjui4yxkasZlY1wn9        
+---
+>>毛概   
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8xMMmj6NpoCr58dVA8qU6bc    
+---
+>>思修   
 >>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8yECo8L2BuGUOgMq_s_7zA7   
->>中国近代史纲要  
->>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wMeWFEntKNCn7lE_WEW7FQ  
+---
+>>中国近代史纲要   
+>>>强化 https://www.youtube.com/playlist?list=PLRMOX8QaZK8wMeWFEntKNCn7lE_WEW7FQ   
