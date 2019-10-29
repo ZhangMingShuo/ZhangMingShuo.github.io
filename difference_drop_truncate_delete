@@ -1,0 +1,15 @@
+
+> [!NOTE]
+> TRUNCATE 
+  SQL query removes all rows from a table, without logging the individual row deletions.    
+  TRUNCATE is a DDL command   
+  TRUNCATE is executed using a table lock and whole table is locked for remove all records.   
+  We cannot use WHERE clause with TRUNCATE.   
+  TRUNCATE removes all rows from a table. 
+  Minimal logging in transaction log, so it is faster performance wise. 
+  TRUNCATE TABLE removes the data by deallocating the data pages used to store the table data and records only the page deallocations in the transaction log.   
+  Identify column is reset to its seed value if table contains any identity column.   
+  To use Truncate on a table you need at least ALTER permission on the table.   
+  Truncate uses less transaction space than the Delete statement.   
+  Truncate cannot be used with indexed views.   
+  TRUNCATE is faster than DELETE.   
