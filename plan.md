@@ -4,8 +4,10 @@
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
     section Section
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1  , 20d
+    马原           :a1, 2019-10-29, 1d
+    史纲     :a2, 2019-10-29  , 3d
+    毛中特 : a3,after a2,3d
+    思修 :a4,after a3,3d  
     section Another
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
