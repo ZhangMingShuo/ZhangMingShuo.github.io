@@ -3,19 +3,24 @@
   gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
+    section 数学
+    概率:m1,2019-10-29,1d
+    微积分:m2,after m1,1d
+    代数:m3,after m2,1d
     section 政治
     马原           :a1, 2019-10-29, 1d
     史纲     :a2, 2019-10-29  , 3d
-    毛中特 : a3,after a2,3d
+    毛中特 : a3,after a2,3d  
     思修 :a4,after a3,3d  
     section 专业课
     数据结构      :c1,2019-10-29 , 1d
     计组      :c2,after c1  , 1d
     操作系统: c3,after c2,1d
     网络 :c4,after c3,1d
-   
-    
-
+    section 英语
+    作文:e1,2019-10-29,1d
+    阅读:e2,after e1,1d
+    完型:e3,after e2,1d
 ```
 |  2019.10.19   | 内容 | 完成情况 | 完善之处 |
 | ----  | ----  | ----  | ----  | 
