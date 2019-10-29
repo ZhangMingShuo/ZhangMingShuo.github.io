@@ -10,8 +10,6 @@
     section 政治
     马原           :active,a1, 2019-10-29, 1d
     史纲     :a2, 2019-10-29  , 3d
-    毛中特 : a3,after a2,3d  
-    思修 :a4,after a3,3d  
     section 专业课
     数据结构      :active,c1,2019-10-29 , 1d
     计组      :c2,after c1  , 1d
