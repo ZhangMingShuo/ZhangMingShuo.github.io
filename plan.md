@@ -18,7 +18,7 @@
     操作系统: c3,after c2,1d
     网络 :c4,after c3,1d
     section 英语
-    作文:e1,2019-10-29,1d
+    作文:e1,after e3,2019-10-29,1d
     阅读:e2,after e1,1d
     完型:e3,after e2,1d
 ```
