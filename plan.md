@@ -9,8 +9,8 @@
     毛中特 : a3,after a2,3d
     思修 :a4,after a3,3d  
     section Another
-    Task in sec      :2014-01-12  , 12d
-    another task      : 24d
+    Task in sec      :2019-10-29  , 5d
+    another task      : 2d
 ```
 |  2019.10.19   | 内容 | 完成情况 | 完善之处 |
 | ----  | ----  | ----  | ----  | 
