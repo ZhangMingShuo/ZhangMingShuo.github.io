@@ -15,7 +15,7 @@
   Truncate比Delete更快
 
 > [!NOTE]
-  DELETE是DML命令。 
+> DELETE是DML命令。 
   使用行锁执行DELETE，表中的每一行都被锁定以进行删除。   
   我们可以使用带DELETE的where子句来过滤和删除特定记录。    
   DELETE命令用于根据WHERE条件从表中删除行。    
