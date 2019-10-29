@@ -9,7 +9,7 @@
     代数:m3,after m2,1d
     section 政治
     马原           :active,a1, 10-29, 1d
-    史纲     :a2, 2019-10-29  , 3d
+    史纲     :a2,10-29  , 3d
     section 专业课
     数据结构      :active,c1,10-29 , 1d
     计组      :c2,after c1  , 1d
