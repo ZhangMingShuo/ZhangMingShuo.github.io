@@ -14,8 +14,7 @@
   Minimal logging in transaction log, so it is faster performance wise. 
   最小化事务日志中的日志记录，因此提高了性能。
   TRUNCATE TABLE removes the data by deallocating the data pages used to store the table data and
-  records only the page deallocations in the transaction log.   
-  
+  records only the page deallocations in the transaction log.  
   Identify column is reset to its seed value if table contains any identity column.   
   To use Truncate on a table you need at least ALTER permission on the table.   
   Truncate uses less transaction space than the Delete statement.   
