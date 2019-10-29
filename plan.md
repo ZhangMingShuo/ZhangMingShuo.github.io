@@ -2,7 +2,7 @@
 ```mermaid,autorun
   gantt
     title A Gantt Diagram
-    dateFormat  YYYY-MM-DD
+    dateFormat  MM-DD
     section 数学
     概率:active,m1,10-29,1d
     微积分:m2,after m1,1d
