@@ -1,11 +1,10 @@
 # 范式
 ## 函数依赖
 ```latex
-X \to Y
-Y函数依赖于X,X是决定属性组，X是决定因素
-平凡的函数依赖:  
-
-X \to Y    
+X \to Y:Y函数依赖于X,X是决定属性组，X是决定因素    
+平凡的函数依赖:X \to Y,Y \subset X     
+X \to Y,Y \to X 记作X \gets \to Y     
+若Y不函数依赖于X,则记作X \not\to Y
 ```
 Y是X的子集  
 
