@@ -1,12 +1,14 @@
 # 范式
 ## 函数依赖
 ```latex
-X \to Y:Y函数依赖于X,X是决定属性组，X是决定因素    
-平凡的函数依赖:X \to Y,Y \subset X     
-X \to Y,Y \to X 记作X \gets \to Y     
-若Y不函数依赖于X,则记作X \not\to Y
+X \to Y:Y函数依赖于X,X是决定属性组，X是决定因素    \\
+非平凡的函数依赖:X \to Y,但Y \not\to X则称X \to Y是非平凡的函数依赖 \\
+平凡的函数依赖:X \to Y,Y \subset X       \\
+X \to Y,Y \to X 记作X \gets \to Y     \\
+若Y不函数依赖于X,则记作X \not\to Y    \\
+Y对X的完全函数依赖,记作X \to[F] Y:在R(U)中,如果X \to Y,并且对于X的任何一个真子集X',都有X' \not\to Y \\
+Y对X的部分函数依赖,记作X \to[P] Y:若X\to Y但Y不完全函数依赖于X
 ```
-Y是X的子集  
 
   
  
