@@ -18,7 +18,7 @@ Y对X的部分函数依赖,记作X \xrightarrow{P} Y:若X\to Y但Y不完全函�
 如在SC(\underline{Sno},\underline{Cno},Grade)中,Sno不是码,\\
 但Sno是关系模式S(\underline{Sno},Sdept,Sage)的码,则Sno是关系模式SC的外码。\\
 主码与外码提供了一个表示关系间联系的手段 \\
-定义6.6若R\in 1NF,且每一个非主属性完全函数依赖于任何一个候选码,则R \in 2NF。
+定义6.6若R\in 1NF,且每一个非主属性完全函数依赖于任何一个候选码,则R \in 2NF。\\
 定义6.7设关系模式R<U,F>\in 1NF,若R中不存在这样的码X,属性组Y及非主属性Z(Y \not \subset Z)\\
 使得X \to Y,Y \to Z 成立,Y \not \to X,则称R<U,F> \in 3NF \\
 
