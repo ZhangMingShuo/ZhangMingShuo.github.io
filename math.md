@@ -6,8 +6,8 @@
 1.随机试验:1.相同条件可重复;2.试验结果多样性，一切结果可以知道;3.试验前不确定具体结果 \\ 
 2.样本空间\Omega:E是随机试验,E的一切可能基本结果组成的全体称为样本空间,记作\Omega \\
 3.事件 \\
-4.不可能事件\phi \subset \Omege \\
-5.\Omege \subset \Omega \\
+4.不可能事件\phi \subset \Omega \\
+5.\Omega \subset \Omega \\
 (2).事件运算 \\
 1.和 A+B \\
 2.积 AB \\
