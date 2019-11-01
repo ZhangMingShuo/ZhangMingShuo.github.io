@@ -1,12 +1,15 @@
 # 范式
 ## 函数依赖
-> [!NOTE]
-> 
 ```latex
-$X \xleftarrow Y$ Y函数依赖于X,X是决定属性组，X是决定因素   
-
-平凡的函数依赖:  $X \xleftarrow Y$ Y是X的子集  
+$X \xleftarrow Y$    
 ```
+Y函数依赖于X,X是决定属性组，X是决定因素
+平凡的函数依赖:  
+```latex
+$X \xleftarrow Y$    
+```
+Y是X的子集  
+
   
  
 
