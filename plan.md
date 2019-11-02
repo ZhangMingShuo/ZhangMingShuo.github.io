@@ -1,6 +1,16 @@
 ## plan
 ```mermaid,autorun
   gantt
+    dateFormat YYYY-MM-DD
+    axisFormat %Hh%M
+    title WanterPermanence
+    section Nuets
+    full day: done, 2018-11-01,24h
+    between 14h00and15h00 :2018-11-01, 1h
+```
+
+```mermaid,autorun 
+  gantt
     title 11.02    
     dateFormat MM-DD-HH
     section 计划
