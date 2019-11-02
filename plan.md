@@ -1,6 +1,20 @@
 ## plan
 ```mermaid,autorun
   gantt
+    title 11.02    
+    dateFormat MM-DD-HH
+    section 计划
+      高数:active,m1,10-30-12,2h
+      数据结构:active,m2,after m1,2h
+      英语:active,m3,after m2,2h
+      概率:active,m4,after m3,1h
+      线代:active,m5,after m4,1h
+      史纲跟谁学:active,m6,after m5,2h
+```
+
+
+```mermaid,autorun
+  gantt
     title A Gantt Diagram
     dateFormat  MM-DD
     section 数学
