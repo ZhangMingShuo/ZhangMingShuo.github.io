@@ -24,7 +24,7 @@
 
 AA^*=A^*A=|A|E \\
 A \alpha =\lambda \alpha \\
-A^*A \alpha = A* \lambda \alpha \\
+A^*A \alpha = A^* \lambda \alpha \\
 A^*A \alpha = |A| \alpha \\
-A* \alpha = \frac{|A|}{\lambda} \alpha \\
+A^* \alpha = \frac{|A|}{\lambda} \alpha \\
 ```
