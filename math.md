@@ -20,3 +20,11 @@
 (4).概率定义与基本性质 \\
 (一)E是随机试验,\Omega是样本空间, \forall A \subset \Omega 定义P(A)为 \\
 ```
+```latex
+
+AA^*=A^*A=|A|E \\
+A \alpha =\lambda \alpha \\
+A^*A \alpha = A* \lambda \alpha \\
+A^*A \alpha = |A| \alpha \\
+A* \alpha = \frac{|A|}{\lambda} \alpha \\
+```
