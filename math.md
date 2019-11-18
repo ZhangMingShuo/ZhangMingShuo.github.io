@@ -32,7 +32,7 @@ A^* \alpha = \frac{|A|}{\lambda} \alpha \\
 # 微积分
 ## 判断空间中两向量是否共面
 ```latex
-L_1上一点M_1,s_1与L_1共线,L_2上一点M_2,s_2与L_2共线。\\
-若(s_1 \times s_2)\cdot \overrightarrow{M_1M_2} = 0 则L_1与L_2共面，反之异面\\
+L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
+若(\vec{s_1} \times \vec{s_2})\cdot \overrightarrow{M_1M_2} = 0, 则L_1与L_2共面，反之异面\\
 ```
 
