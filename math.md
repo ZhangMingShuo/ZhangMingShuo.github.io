@@ -20,11 +20,19 @@
 (4).概率定义与基本性质 \\
 (一)E是随机试验,\Omega是样本空间, \forall A \subset \Omega 定义P(A)为 \\
 ```
+# 线性代数
+## 判断矩阵的特征值与其伴随矩阵的特征值的关系
 ```latex
-
 AA^*=A^*A=|A|E \\
 A \alpha =\lambda \alpha \\
 A^*A \alpha = A^* \lambda \alpha \\
 A^*A \alpha = |A| \alpha \\
 A^* \alpha = \frac{|A|}{\lambda} \alpha \\
 ```
+# 微积分
+## 判断空间中两向量是否共面
+```latex
+L_1上一点M_1,s_1与L_1共线,L_2上一点M_2,s_2与L_2共线。\\
+若(s_1 \times s_2)\cdot \overrightarrow{M_1M_2} = 0 则L_1与L_2共面，反之异面\\
+```
+
