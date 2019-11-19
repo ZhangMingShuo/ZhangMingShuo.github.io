@@ -63,5 +63,5 @@ L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
 ```
 ## 三重积分的物理意义
 ```latex
-占有空间区域\Omega的物体，在点(x,y,z)有体密度f(x,y,z)则质量是\iiintlimits_{\Omega}f(x,y,z)dv
+占有空间区域\Omega的物体，在点(x,y,z)有体密度f(x,y,z)则质量是\iiint\limits_{\Omega}f(x,y,z)dv
 ```
