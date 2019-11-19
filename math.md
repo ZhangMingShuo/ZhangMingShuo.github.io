@@ -34,5 +34,12 @@ A^* \alpha = \frac{|A|}{\lambda} \alpha \\
 ```latex
 L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
 若(\vec{s_1} \times \vec{s_2})\cdot \overrightarrow{M_1M_2} = 0, 则L_1与L_2共面，反之异面\\
+         
 ```
-
+## 过一直线L的平面束方程
+```latex
+过一直线L \begin{cases}
+              a_1x+b_1y+c_1z=0& \text{\Pi_1}\\
+              a_2x+b_2y+c_2z=0& \text{\Pi_2}
+            \end{cases} 的平面束为: a_1x+b_1y+c_1z+\lambda(a_2x+b_2y+c_2z)=0
+```
