@@ -51,3 +51,8 @@ L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
             \end{cases} 
 对弧长L的曲面积分 \int_{L}f(x,y)ds=\int^{\beta}_{\alpha}f[\phi(t),\psi(t)]\sqrt{\phi^{'2}(t)+\psi^{'2}(t)}dt(\alpha<\beta)
 ```
+## 对坐标的曲面积分
+```latex
+\int_{L}P(x,y)dx=\int^{\beta}_{\alpha}P[\phi(t),\psi(t)]\phi^{'}(t)dt \\
+\int_{L}Q(x,y)dx=\int^{\beta}_{\alpha}Q[\phi(t),\psi(t)]\psi^{'}(t)dt 
+```
