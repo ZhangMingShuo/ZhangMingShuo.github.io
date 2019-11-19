@@ -39,7 +39,7 @@ L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
 ## 过一直线L的平面束方程
 ```latex
 过一直线L \begin{cases}
-              a_1x+b_1y+c_1z=0& \text{\pi_{1}}\\
-              a_2x+b_2y+c_2z=0& \text{\pi_{2}}
+              a_1x+b_1y+c_1z=0& \text{ }\\
+              a_2x+b_2y+c_2z=0& \text{ }
             \end{cases} 的平面束为: a_1x+b_1y+c_1z+\lambda(a_2x+b_2y+c_2z)=0
 ```
