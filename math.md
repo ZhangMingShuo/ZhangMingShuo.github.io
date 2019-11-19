@@ -56,3 +56,8 @@ L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
 \int_{L}P(x,y)dx=\int^{\beta}_{\alpha}P[\phi(t),\psi(t)]\phi^{'}(t)dt \\
 \int_{L}Q(x,y)dx=\int^{\beta}_{\alpha}Q[\phi(t),\psi(t)]\psi^{'}(t)dt 
 ```
+## 格林公式
+```latex
+设闭区域D由分段光滑的曲线L围成，函数P(x,y)及Q(x,y)在D上具有一阶连续偏导数\\
+\iint\limits_{D}(\frac{\partial Q}{\partialx}-\frac{\partial P}{\partial y})dxdy=\oint_LPdx+Qdy,L是D的取正向的边界闭曲线.
+```
