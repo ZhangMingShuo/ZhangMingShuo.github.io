@@ -61,3 +61,7 @@ L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
 设闭区域D由分段光滑的曲线L围成，函数P(x,y)及Q(x,y)在D上具有一阶连续偏导数\\
 \iint\limits_{D}(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y})dxdy=\oint_LPdx+Qdy,L是D的取正向的边界闭曲线.
 ```
+## 三重积分的物理意义
+```latex
+占有空间区域\Omega的物体，在点(x,y,z)有体密度f(x,y,z)则质量是\iiintlimits_{\Omega}f(x,y,z)dv
+```
