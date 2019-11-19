@@ -54,7 +54,7 @@ L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
 ## 对坐标的曲面积分
 ```latex
 \int_{L}P(x,y)dx=\int^{\beta}_{\alpha}P[\phi(t),\psi(t)]\phi^{'}(t)dt \\
-\int_{L}Q(x,y)dx=\int^{\beta}_{\alpha}Q[\phi(t),\psi(t)]\psi^{'}(t)dt 
+\int_{L}Q(x,y)dy=\int^{\beta}_{\alpha}Q[\phi(t),\psi(t)]\psi^{'}(t)dt 
 ```
 ## 格林公式
 ```latex
@@ -64,4 +64,10 @@ L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
 ## 三重积分的物理意义
 ```latex
 占有空间区域\Omega的物体，在点(x,y,z)有体密度f(x,y,z)则质量是\iiint\limits_{\Omega}f(x,y,z)dv
+```
+## 高斯公式
+```latex
+设空间闭区域\Omega是由分片光滑的闭曲线\Sigma所围成，P(x,y,z),Q(x,y,z),R(x,y,z)在\Omega上具有一阶连续偏导数,
+\oiint\limits{\Sigma}Pdydz+Qdzdx+Rdxdy=\iiint\limits_{\Omega}(frac{\partial P}{\partial x}+frac{\partial Q}{\partial y}+frac{\partial R}{\partial z})dv \\
+\oiint\limits{\Sigma}(Pcos\alpha+Qcos\beta+Rcos\gammma)dS=\iiint\limits_{\Omega}(frac{\partial P}{\partial x}+frac{\partial Q}{\partial y}+frac{\partial R}{\partial z})dv \\
 ```
