@@ -68,6 +68,6 @@ L_1上一点M_1,\vec{s_1}与L_1共线,L_2上一点M_2,\vec{s_2}与L_2共线。\\
 ## 高斯公式
 ```latex
 设空间闭区域\Omega是由分片光滑的闭曲线\Sigma所围成，P(x,y,z),Q(x,y,z),R(x,y,z)在\Omega上具有一阶连续偏导数,
-\oiint\limits{\Sigma}Pdydz+Qdzdx+Rdxdy=\iiint\limits_{\Omega}(frac{\partial P}{\partial x}+frac{\partial Q}{\partial y}+frac{\partial R}{\partial z})dv \\
-\oiint\limits{\Sigma}(Pcos\alpha+Qcos\beta+Rcos\gamma)dS=\iiint\limits_{\Omega}(\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z})dv \\
+\oiint\limits_{\Sigma}Pdydz+Qdzdx+Rdxdy=\iiint\limits_{\Omega}(\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z})dv \\
+\oiint\limits_{\Sigma}(Pcos\alpha+Qcos\beta+Rcos\gamma)dS=\iiint\limits_{\Omega}(\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z})dv \\
 ```
